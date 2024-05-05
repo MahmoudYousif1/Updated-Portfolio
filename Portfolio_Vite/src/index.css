@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+html a :hover{
+
+  letter-spacing: "0.1em";
+  transition-duration: 700ms;
+}
