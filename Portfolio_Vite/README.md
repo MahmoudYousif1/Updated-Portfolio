@@ -1,7 +1,7 @@
 
 # React Portfolio with Vite
 
-This project demonstrates a portfolio website built using React and Vite It incorporates modern web technologies such as Tailwind CSS for styling and React Icons for scalable graphics.This is just a frame at the moment but over the next couple of weeks, I'll be adding more pages, functionality and content to the site. Below is a guide to setting up the project, running it locally, and understanding its structure.
+This project demonstrates a portfolio website built using React and Vite and it incorporates modern web technologies such as Tailwind CSS for styling and React Icons for scalable graphics.This is just a frame at the moment but over the next couple of weeks, I'll be adding more pages, functionality and content to the site. Below is a guide to setting up the project, running it locally, and understanding its structure.
 
 ## Project Demo
 
