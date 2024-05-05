@@ -4,7 +4,24 @@ This project demonstrates a portfolio website built using React and Vite and it 
 
 ## Project Demo
 
+Desktop Version
+
+Home
 ![Upcoming Developer & Code Enthusiast](Portfolio_Vite/src/assets/image.png)
+
+
+About
+![Upcoming Developer & Code Enthusiast](Portfolio_Vite/src/assets/About.png)
+
+
+Projects
+![Upcoming Developer & Code Enthusiast](Portfolio_Vite/src/assets/Projects.png)
+
+
+# Mobile Responsivenesses
+
+![Upcoming Developer & Code Enthusiast](Portfolio_Vite/src/assets/Mobile.png)
+
 
 ## Installation
 
