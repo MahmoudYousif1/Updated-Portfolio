@@ -51,10 +51,6 @@ To run the project locally after installation:
 
 This component displays information about the individual or entity the portfolio is representing. It typically includes a brief biography and any relevant personal or professional details.
 
-### `Contact.jsx`
-
-Handles user interactions for contacting through the portfolio, such as forms to submit inquiries or links to social media.
-
 ### `Footer.jsx`
 
 Displays footer information, including copyright notices and links to other important sections of the portfolio.
